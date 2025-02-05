@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakshi177
 - 👀 I’m interested in Web Devlopment.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
